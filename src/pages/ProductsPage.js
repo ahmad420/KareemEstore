@@ -10,7 +10,7 @@ const ProductsPage = ({ match }) => {
   return (
     <>
       <Link className='btn btn-dark my-3' to='/'>
-        Go Back
+        <i class='fas fa-chevron-left'></i>
       </Link>
       <Row>
         <Col md={6}>

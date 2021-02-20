@@ -1,3 +1,4 @@
+import React from 'react'
 import { Header, Footer } from './components/index.js'
 import { Container } from 'react-bootstrap'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
